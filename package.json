@@ -1,0 +1,42 @@
+{
+    "name": "indicrypto",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@fortawesome/fontawesome-svg-core": "",
+      "@fortawesome/free-brands-svg-icons": "",
+      "@fortawesome/free-solid-svg-icons": "",
+      "@fortawesome/react-fontawesome": "",
+      "@material-ui/core": "",
+      "@material-ui/lab": "",
+      "@testing-library/jest-dom": "",
+      "@testing-library/react": "",
+      "@testing-library/user-event": "",
+      "axios": "",
+      "chart.js": "",
+      "html-react-parser": "",
+      "htmlparser2": "",
+      "react": "",
+      "react-alice-carousel": "",
+      "react-chartjs-2": "",
+      "react-dom": "",
+      "react-html-parser": "",
+      "react-router-dom": "",
+      "react-scripts": "",
+      "web-vitals": ""
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    },
+    "browserslist": {
+      "production": [">0.2%", "not dead", "not op_mini all"],
+      "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+    }
+  }
+  
